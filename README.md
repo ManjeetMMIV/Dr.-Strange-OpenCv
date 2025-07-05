@@ -1,5 +1,5 @@
 # Dr.-Strange-OpenCv
-It's an OpenCV simple project applying Dr. Strange like filter
+It's an OpenCV project applying Dr. Strange like filter using the computer vision library
 
 STRUCTURE:
 DRSTRANGE/
